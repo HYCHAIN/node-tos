@@ -1,5 +1,5 @@
 ## Hychain Terms of Service
-## Updated 2-29-2024
+#### Updated 2-29-2024
 
 Terms will be available here prior to the node sale starting.
 
