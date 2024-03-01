@@ -1,4 +1,4 @@
-## Hychain Terms of Service
+## HYCHAIN Node Terms of Service
 #### Updated 2-29-2024
 
 HYCHAIN GUARDIAN NODE SOFTWARE AGREEMENT
